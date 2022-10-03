@@ -6,13 +6,13 @@
             "value": ""
         },
         "NamePrefix": {
-            "value": ""
+            "value": "sh-usa-tst"
         },
         "NumberOfVms": {
             "value": 1
         },
         "ScriptUri": {
-            "value": ""
+            "value": "https://github.com/bigjoestretch/arm-template-customization/blob/63e7aa1f1a5687e51442c53ccaa632d227d5082e/script.ps1"
         },
         "VirtualMachineIndex": {
             "value": 0
