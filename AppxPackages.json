@@ -54,10 +54,10 @@
     "Description": "Note-taking app"
   },
   {
-    "AppxPackage": "Microsoft.Paint",
+    "AppxPackage": "Microsoft.MSPaint",
     "VDIState": "Unchanged",
-    "URL": "https://www.microsoft.com/en-us/p/paint/9pcfs5b6t72h",
-    "Description": "Windows basic sketching and graphics app"
+    "URL": "https://apps.microsoft.com/store/detail/paint-3d/9NBLGGH5FV99",
+    "Description": "Paint 3D app (not Classic Paint app)"
   },
   {
     "AppxPackage": "Microsoft.People",
@@ -91,7 +91,7 @@
   },
   {
     "AppxPackage": "Microsoft.Windows.Photos",
-    "VDIState": "Enabled",
+    "VDIState": "Unchanged",
     "URL": "https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4",
     "Description": "Photo and video editor"
   },
@@ -133,7 +133,7 @@
   },
   {
     "AppxPackage": "Microsoft.WindowsNotepad",
-    "VDIState": "Enabled",
+    "VDIState": "Unchanged",
     "URL": "https://www.microsoft.com/en-us/p/windows-notepad/9msmlrh6lzf3",
     "Description": "Fast, simple text editor for plain text documents and source code files."
   },
@@ -202,5 +202,35 @@
     "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/store/apps/9wzdncrfjbd8",
     "Description": "Xbox 'Console Companion' app (games, friends, etc.)"
+  },
+  {
+    "AppxPackage": "Microsoft.MixedReality.Portal",
+    "VDIState": "Disabled",
+    "URL": "https://www.microsoft.com/en-us/p/mixed-reality-portal/9ng1h8b3zc7m",
+    "Description": "The app that facilitates Windows Mixed Reality setup, and serves as the command center for mixed reality experiences"
+  },
+  {
+    "AppxPackage": "Microsoft.Microsoft3DViewer",
+    "VDIState": "Disabled",
+    "URL": "https://www.microsoft.com/en-us/p/3d-viewer/9nblggh42ths",
+    "Description": "App to view common 3D file types"
+  },
+  {
+    "AppxPackage": "MicrosoftTeams",
+    "VDIState": "Disabled",
+    "URL": "https://www.microsoft.com/en-us/microsoft-teams/group-chat-software",
+    "Description": "Microsoft communication platform"
+  },
+  {
+    "AppxPackage": "Microsoft.OneDriveSync",
+    "VDIState": "Disabled",
+    "URL": "https://docs.microsoft.com/en-us/onedrive/one-drive-sync",
+    "Description": "Microsoft OneDrive sync app (included in Office 2016 or later)"
+  },
+  {
+    "AppxPackage": "Microsoft.Wallet",
+    "VDIState": "Disabled",
+    "URL": "https://www.microsoft.com/en-us/payments",
+    "Description": "(Microsoft Pay) for Edge browser on certain devices"
   }
 ]
